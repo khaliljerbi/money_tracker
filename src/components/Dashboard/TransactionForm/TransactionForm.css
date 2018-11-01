@@ -1,0 +1,20 @@
+.ui.attached.menu {
+    width: 100%;
+    justify-content: center;
+    padding-left: 0;
+    padding-right: 0;
+   margin-left:0;
+   margin-right: 0;
+   text-align: center;
+}
+
+.ui.menu .item {
+    flex:auto;
+    justify-content: center;
+    width: 33%;
+    height: 100%;
+    line-height: 1;
+    
+}
+
+

@@ -1,0 +1,7 @@
+.ContainerFlex {
+    display: flex;
+    flex-direction: column;
+}
+.ContainerFlex span {
+    margin-bottom: 1rem;
+}
